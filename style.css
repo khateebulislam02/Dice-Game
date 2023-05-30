@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: grey;
+}
+h1 {
+    font-family: 'Courgette', cursive;
+    color: aquamarine;
+    font-size: 8rem;
+}
+p {
+    font-family: 'Amatic SC', cursive;
+    color: aquamarine;
+    font-size: 2rem;
+}
+footer {
+    font-family: 'Sacramento', cursive;
+    color: #fff;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    margin-bottom: 10%;
+    text-align: center;
+  }
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin-top: 10% 5%;
+  
+  }
+  
